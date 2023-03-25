@@ -413,7 +413,7 @@ body{
 }
 .container .cloud:first-child::before{
     position: absolute;
-    content: 'Hãy ấn vào thư em nhé';
+    content: 'Hãy ấn vào thư đi thầyyy';
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
@@ -948,7 +948,7 @@ span{
 }
 .container .cute1::after{
     position: absolute;
-    content: 'Ngạc nhiên chưa "girl especially"';
+    content: 'Ngạc nhiên chưa "teacher especially"';
     font-family: 'Roboto', sans-serif;
     text-align: center;
     padding: 10px;
